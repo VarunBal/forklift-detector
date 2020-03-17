@@ -1,0 +1,5 @@
+classes = 1
+train = /content/darknet/data/forklift_train.txt
+valid = /content/darknet/data/forklift_test.txt
+names = /content/darknet/data/forklift_labels.txt
+backup = backup/train_backup
